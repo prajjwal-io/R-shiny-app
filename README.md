@@ -156,8 +156,7 @@ The dashboard includes extensive custom CSS styling to create a modern, cohesive
 - User permission levels and team management
 
 ## Developer Information
-This application was developed with R Shiny and follows modern practices for interactive web application development within the R ecosystem.
-Developed by prajjwal-io
+This application was developed with R Shiny and follows modern practices for interactive web application development within the R ecosystem (developed by prajjwal-io).
 ---
 
 © 2025 Prajjwal Central. All rights reserved.
