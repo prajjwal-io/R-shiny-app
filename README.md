@@ -157,7 +157,7 @@ The dashboard includes extensive custom CSS styling to create a modern, cohesive
 
 ## Developer Information
 This application was developed with R Shiny and follows modern practices for interactive web application development within the R ecosystem.
-
+Developed by prajjwal-io
 ---
 
 © 2025 Prajjwal Central. All rights reserved.
