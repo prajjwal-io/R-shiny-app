@@ -1,4 +1,4 @@
-# Prajjwal Central Dashboard
+# Prajjwal Central Dashboard in Rshiny
 
 ## Overview
 Prajjwal Central is a comprehensive data science and analytics platform built with R Shiny. This interactive dashboard provides tools for data visualization, statistical analysis, project management, and learning resources - all within a modern, user-friendly interface.
